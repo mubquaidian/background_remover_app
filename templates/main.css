@@ -1,0 +1,47 @@
+/* Main CSS for Background Remover App */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .instructions {
+    margin-top: 1rem;
+    color: #777;
+  }
+  
+  .processed-image {
+    margin-top: 1.5rem;
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .download-button {
+    margin-top: 1rem;
+    background-color: #FF4B2B;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .download-button:hover {
+    background-color: #FF692F;
+  }
+  
+  
